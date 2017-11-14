@@ -1,6 +1,10 @@
 # Maven
 log/
 target/
+bower_components
+node_modules
+node
+built
 
 # Eclipse
 .classpath
